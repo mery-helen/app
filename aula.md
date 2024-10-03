@@ -37,14 +37,14 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
 - [x] Operadores de comparação: == != <= >= < >
+- [x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays: 
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, find, forEach
-
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF(Higher Order Functions)
 ### Objetos:
 
 - [x] Atributos e métodos
@@ -56,6 +56,7 @@ Apresentar os dados
 - [x] criar, passar argumento
 - [x] excutar
 - [x] arrow function / named function
+    const criarMeta = () => {} | function criarMeta() {}
 
 # Estrutura de repetição
 
